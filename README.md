@@ -5,8 +5,8 @@
 **Made by:** Nang Khin La Pyae
 
 **Built with:**
-HTML, CSS, JavaScript (vanilla — no frameworks)
-Bootstrap 5.3 (signin page only)
+HTML, CSS, JavaScript
+Bootstrap 5.3
 Images from picsum.com
 Fonts from Google Fonts CDN
 
@@ -26,22 +26,22 @@ As an **artist**, I want to **discover a variety of images**, so that **I can us
 
 ## Links
 
-- **Repo:** *(add your GitHub repo link here)*
-- **GitHub Pages:** *(add your live link here)*
-- **Wiki / Issue Design Evidence:** *(add link here)*
+- **Repo:** *(https://github.com/nangkhinlp/midterm-project-webdev)*
+- **GitHub Pages:** *(https://nangkhinlp.github.io/midterm-project-webdev/)*
+- **Wiki / Issue Design Evidence:** *(https://imgur.com/a/Cl3M44q)*
 
 ### Design Inspiration
 
 **Pinterest**
 
-![Pinterest Screenshot](https://i.imgur.com/placeholder.png)
+(https://imgur.com/a/Cl3M44q)
 
 The images are not fixed into a traditional row or column. They have varying card heights and the layout puts them into a nice dynamic grid. The rounded corners create a more appealing and welcoming UI appearance.
 ---
 
 ## Model / Inspiration Evidence
 
-[screenshot link]
+(https://imgur.com/a/Cl3M44q)
 
 I copied the masonry grid layout style from Pinterest and the card style. 
 
@@ -92,7 +92,7 @@ function loadCards() {
 
 **front end app fetching internal data**
 
-Bootstrap 5.3 (signin page only)
+Bootstrap 5.3
 Images from picsum.com
 Fonts from Google Fonts CDN
 
@@ -107,4 +107,5 @@ Fonts from Google Fonts CDN
 
 **Known issues:**
 - Auth is simple frontend
+
 - Image Data is hardcoded
