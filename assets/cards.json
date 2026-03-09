@@ -1,0 +1,64 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "image": "https://picsum.photos/seed/mtn1/300/420",
+            "title": "Shooting Star in the Sky",
+            "tag": "Travel"
+        },
+        {
+            "id": 2,
+            "image": "https://picsum.photos/seed/food1/300/300",
+            "title": "People Strolling on the Beach Shore",
+            "tag": "Travel"
+        },
+        {
+            "id": 3,
+            "image": "https://picsum.photos/seed/desk1/300/380",
+            "title": "Snow Mountain Against a Grey Sky",
+            "tag": "Nature"
+        },
+        {
+            "id": 4,
+            "image": "https://picsum.photos/seed/forest1/300/460",
+            "title": "Misty Forest",
+            "tag": "Nature"
+        },
+        {
+            "id": 5,
+            "image": "https://picsum.photos/seed/coffee1/300/320",
+            "title": "Birds Flying During a Migration",
+            "tag": "Travel"
+        },
+        {
+            "id": 6,
+            "image": "https://picsum.photos/seed/poster1/300/400",
+            "title": "Industrial Bridge",
+            "tag": "Design"
+        },
+        {
+            "id": 7,
+            "image": "https://picsum.photos/seed/beach1/300/350",
+            "title": "Golden Hour Sunset",
+            "tag": "Nature"
+        },
+        {
+            "id": 8,
+            "image": "https://picsum.photos/seed/room1/300/430",
+            "title": "Dirt Path on a Grass Field",
+            "tag": "Nature"
+        },
+        {
+            "id": 9,
+            "image": "https://picsum.photos/seed/pasta1/300/310",
+            "title": "Person Working at a Dinner Table",
+            "tag": "Work"
+        },
+        {
+            "id": 10,
+            "image": "https://picsum.photos/seed/lake1/300/480",
+            "title": "Strolling in the Field",
+            "tag": "Nature"
+        }
+    ]
+}
