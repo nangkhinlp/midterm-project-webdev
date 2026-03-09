@@ -107,5 +107,6 @@ Fonts from Google Fonts CDN
 
 **Known issues:**
 - Auth is simple frontend
-
+- Header is cut off on Android Mobile but it's not a design issue on desktop or ipad.
 - Image Data is hardcoded
+
